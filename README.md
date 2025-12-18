@@ -1,5 +1,4 @@
-test. its work. 
-GM
+its work
 
 DangerCows
 
