@@ -1,3 +1,5 @@
+GM.
+
 DangerCows
 
 Synopsis
@@ -14,4 +16,6 @@ The stack of languages and tools I used:
 
 Back-end: Solidity, Hardhat, JS to handle the deployment.
 Front-end: ReactJS, Vite, ethers.js to connect front-end with the back-end.
+
+
 
