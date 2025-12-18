@@ -15,5 +15,3 @@ Front-end: ReactJS, Vite, ethers.js to connect front-end with the back-end.
 
 
 outdated project.
-
-up
