@@ -1,5 +1,3 @@
-its work
-
 DangerCows
 
 Synopsis
