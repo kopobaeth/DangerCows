@@ -1,6 +1,4 @@
-DangerCows
-
-Synopsis
+Introducing DangerCows
 
 A project to learn how NFTs work and practice smart contract development.
 
