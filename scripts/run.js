@@ -10,7 +10,7 @@ const main = async () => {
       "Roshan", // Boss name
       "https://i.ibb.co/jkLK7WB/cdc2a46888c288d18a176cae19963b78.png", // Boss image
       10000, // Boss hp
-      50 // Boss attack damage r                      // Attack damage values
+      50 // Boss attack damage                       // Attack damage values
       );
     await gameContract.deployed();
     console.log("Contract deployed to:", gameContract.address);
