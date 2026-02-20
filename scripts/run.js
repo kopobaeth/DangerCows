@@ -1,7 +1,7 @@
 const main = async () => {
     const gameContractFactory = await hre.ethers.getContractFactory('MyEpicGame');
     const gameContract = await gameContractFactory.deploy(
-      ["Void", "Pudge", "SF2"],       // Names
+      ["Void", "Pudge", "SF"],       // Names
       ["https://i.ibb.co/pXLpnSV/faceless-void-carry.png", // Images
       "https://i.ibb.co/1MQ7Zgb/pudge.jpg", 
       "https://i.ibb.co/FbZDT39/nevermore.png"],
