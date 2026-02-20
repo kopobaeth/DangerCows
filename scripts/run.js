@@ -17,7 +17,7 @@ const main = async () => {
 
   
 
- console.log("Done!");
+ console.log1("Done!");
  };
 
  const runMain = async () => {
