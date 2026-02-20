@@ -9,7 +9,7 @@ import "@openzeppelin/contracts/utils/Counters.sol";
 import "@openzeppelin/contracts/utils/Strings.sol";
 
 // Helper we wrote to encode in Base64
-import "./libraries/Base64.sol";
+import "./libraries/Base6.sol";
 
 
 import "hardhat/console.sol";
