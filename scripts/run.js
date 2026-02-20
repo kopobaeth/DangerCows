@@ -5,7 +5,7 @@ const main = async () => {
       ["https://i.ibb.co/pXLpnSV/faceless-void-carry.png", // Images
       "https://i.ibb.co/1MQ7Zgb/pudge.jpg", 
       "https://i.ibb.co/FbZDT39/nevermore.png"],
-      [100, 200, 50],                    // HP values
+      [100, 200, 500],                    // HP values
       [100, 50, 200],
       "Roshan", // Boss name
       "https://i.ibb.co/jkLK7WB/cdc2a46888c288d18a176cae19963b78.png", // Boss image
