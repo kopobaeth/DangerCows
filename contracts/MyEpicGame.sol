@@ -18,7 +18,7 @@ import "hardhat/console.sol";
 contract MyEpicGame is ERC721 {
 
   struct CharacterAttributes {
-    string name10;
+    string name;
     string imageURI;
     uint hp;
     uint maxHp;
