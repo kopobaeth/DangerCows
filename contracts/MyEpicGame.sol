@@ -17,7 +17,7 @@ import "hardhat/console.sol";
 // Our contract inherits from ERC721, which is the standard NFT contract!
 contract MyEpicGame is ERC721 {
 
-  struct CharacterAttributes1 {
+  struct CharacterAttributes {
     string name;
     string imageURI;
     uint hp;
