@@ -7,7 +7,7 @@ const main = async () => {
       "https://i.ibb.co/FbZDT39/nevermore.png"],
       [100, 200, 50],                    // HP values
       [100, 50, 200],
-      "Roshan", // Boss name
+      "Roshan2", // Boss name
       "https://i.ibb.co/jkLK7WB/cdc2a46888c288d18a176cae19963b78.png", // Boss image
       10000, // Boss hp
       50 // Boss attack damage                       // Attack damage values
