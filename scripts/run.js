@@ -1,4 +1,4 @@
-const main = asynce () => {
+const main = async () => {
     const gameContractFactory = await hre.ethers.getContractFactory('MyEpicGame');
     const gameContract = await gameContractFactory.deploy(
       ["Void", "Pudge", "SF"],       // Names
