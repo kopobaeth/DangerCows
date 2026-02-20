@@ -3,7 +3,7 @@ const main = async () => {
     const gameContract = await gameContractFactory.deploy(
       ["Void", "Pudge", "SF"],       // Names
       ["https://i.ibb.co/pXLpnSV/faceless-void-carry.png", // Images
-      "https://i.ibb.co/1MQ7Zgb/pudge.jpg", 
+      "https://i.ibb.co/1MQ7Zgb/pudge.jpgr", 
       "https://i.ibb.co/FbZDT39/nevermore.png"],
       [100, 200, 50],                    // HP values
       [100, 50, 200],
